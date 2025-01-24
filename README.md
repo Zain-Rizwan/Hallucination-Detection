@@ -12,3 +12,7 @@ This repository contains the implementation of a **binary hallucination detectio
 ## Dataset
 The model is trained and tested on the [XSum Hallucination Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews). This dataset contains summaries labeled as factual or hallucinated. (Ensure you have the dataset in the appropriate format before training.)
 
+## How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Zain-Rizwan/Hallucination-Detection-using-N-Gram.git
