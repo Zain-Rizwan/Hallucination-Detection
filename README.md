@@ -1,4 +1,4 @@
-# Hallucination Detection Classifier
+# Hallucination Detection Classifier Using N-Grams
 
 This repository contains the implementation of a **binary hallucination detection classifier** that identifies whether a given text (summary) is factual or contains hallucinations. The model is trained on the **XSum Hallucination Dataset** and uses logistic regression without libraries for classification.
 
